@@ -11,7 +11,7 @@ Then it shows you one short **brief** with numbered decisions. You reply `all`, 
 
 ```
 DECIDE (3 items)
-1. Send reply draft -> distributor A   because stock request confirmed   [evidence: inbox, 06 Nov]
+1. Send reply draft ->A   because stock request confirmed   [evidence: inbox, 06 Nov]
 2. Close complaint #4411               because delivery logged in portal [evidence: portal status]
 3. Send reminder -> distributor B      because case pending 5 days       [evidence: portal]
 Reply: "all", "all except 2", or numbers.
